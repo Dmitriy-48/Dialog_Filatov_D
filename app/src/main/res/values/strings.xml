@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dialog_Filatov_D</string>
+
+    <string name="message">Хотите поменять фон?</string>
+    <string name="btn">Выбрать фон</string>
+
+    <string name="red">Красный</string>
+    <string name="yellow">Желтый</string>
+    <string name="green">Зеленый</string>
+
+</resources>
